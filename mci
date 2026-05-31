@@ -1,9 +1,3 @@
-hysteria2://Masir_Sefid@18.157.100.78:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#All01
-hysteria2://Masir_Sefid@18.157.100.78:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#All02
-hysteria2://Masir_Sefid@18.157.100.78:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#All03
-hysteria2://Masir_Sefid@18.157.100.78:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#All04
-hysteria2://Masir_Sefid@18.157.100.78:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#All05
-hysteria2://Masir_Sefid@18.157.100.78:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#All06
 vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@104.19.208.184:8443?path=%2FRoBeRt&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#IC1%F0%9F%87%AB%F0%9F%87%AE
 vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@104.19.64.105:8443?path=%2FRoBeRt&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#IC2%F0%9F%87%AB%F0%9F%87%AE
 vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@162.159.253.41:8443?path=%2FRoBeRt&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#IC3%F0%9F%87%AB%F0%9F%87%AE
