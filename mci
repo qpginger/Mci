@@ -1,30 +1,3 @@
-vless://8d83eb92-c5e9-492b-8228-6313d2c2936a@p1-zagfa.pelastiki.com:7552?security=reality&encryption=none&pbk=58uSItKimPRA69hHfqV-4RLNQhDuDAVIiW0QF8VcURw&headerType=none&fp=random&spx=%2FTHsT6KGe5uYMeL2&type=tcp&sni=play.google.com&sid=9c09ffb160#%C2%B9%F0%9F%87%A9%F0%9F%87%AA%20zagfapro
-
-vless://3349813a-09b9-46a1-b79d-81329d4a0673@p2-zagfa.pelastiki.com:7553?security=reality&encryption=none&pbk=zkc2OlX2zuN3S0-PgKGT08lzCvCZplB-73_2grzzyRk&headerType=none&fp=random&spx=%2F8wHUMOZESUquAwq&type=tcp&sni=play.google.com&sid=0850f2bf70#%C2%B2%F0%9F%87%A9%F0%9F%87%AA%20zagfapro
-
-vless://8d83eb92-c5e9-492b-8228-6313d2c2936a@www.ikco.ir:80?security=none&encryption=none&host=pro1.brelvano.ir&type=ws#%F0%9F%9B%9C%20%E2%93%82%EF%B8%8F%20zagfapro%201
-
-vless://3349813a-09b9-46a1-b79d-81329d4a0673@www.ikco.ir:80?security=none&encryption=none&host=pro2.brelvano.ir&type=ws#%F0%9F%9B%9C%20%E2%93%82%EF%B8%8F%20zagfapro%202
-
-vless://8d83eb92-c5e9-492b-8228-6313d2c2936a@WOF.BRELFIRA.IR:80?path=%2Fzard&security=none&encryption=none&host=api-11-zagfa.pelastiki.com&type=httpupgrade#%F0%9F%9B%9C%20%E2%93%82%EF%B8%8F%201%F0%9F%93%95
-
-vless://3349813a-09b9-46a1-b79d-81329d4a0673@WOF.BRELFIRA.IR:2095?path=%2Fhalim&security=none&encryption=none&host=api-22-zagfa.pelastiki.com&type=httpupgrade#%F0%9F%9B%9C%20%E2%93%82%EF%B8%8F%202%F0%9F%93%95
-
-vless://8d83eb92-c5e9-492b-8228-6313d2c2936a@W0W.BRELFIRA.IR:80?path=%2Fzard&security=none&encryption=none&host=api-11-zagfa.pelastiki.com&type=httpupgrade#%F0%9F%9B%9C%20%E2%93%82%EF%B8%8F%201%F0%9F%93%97
-
-vless://3349813a-09b9-46a1-b79d-81329d4a0673@W0W.BRELFIRA.IR:2095?path=%2Fhalim&security=none&encryption=none&host=api-22-zagfa.pelastiki.com&type=httpupgrade#%F0%9F%9B%9C%20%E2%93%82%EF%B8%8F%202%F0%9F%93%97
-
-vless://8d83eb92-c5e9-492b-8228-6313d2c2936a@DVD.BRELFIRA.IR:80?path=%2Fzard&security=none&encryption=none&host=api-11-zagfa.pelastiki.com&type=httpupgrade#%F0%9F%9B%9C%20%E2%93%82%EF%B8%8F%201%F0%9F%93%98
-
-vless://3349813a-09b9-46a1-b79d-81329d4a0673@DVD.BRELFIRA.IR:2095?path=%2Fhalim&security=none&encryption=none&host=api-22-zagfa.pelastiki.com&type=httpupgrade#%F0%9F%9B%9C%20%E2%93%82%EF%B8%8F%202%F0%9F%93%98
-
-vless://8d83eb92-c5e9-492b-8228-6313d2c2936a@165.215.250.10:80?path=%2Fzard&security=none&encryption=none&host=api-11-zagfa.pelastiki.com&type=httpupgrade#%F0%9F%9B%9C%20%E2%93%82%EF%B8%8F%201%F0%9F%93%99
-
-vless://3349813a-09b9-46a1-b79d-81329d4a0673@165.215.250.10:2095?path=%2Fhalim&security=none&encryption=none&host=api-22-zagfa.pelastiki.com&type=httpupgrade#%F0%9F%9B%9C%20%E2%93%82%EF%B8%8F%202%F0%9F%93%99
-
-vless://8d83eb92-c5e9-492b-8228-6313d2c2936a@208.103.161.22:80?path=%2Fzard&security=none&encryption=none&host=api-11-zagfa.pelastiki.com&type=httpupgrade#%F0%9F%9B%9C%20%E2%93%82%EF%B8%8F%201%F0%9F%93%93
-
-vless://3349813a-09b9-46a1-b79d-81329d4a0673@208.103.161.22:2095?path=%2Fhalim&security=none&encryption=none&host=api-22-zagfa.pelastiki.com&type=httpupgrade#%F0%9F%9B%9C%20%E2%93%82%EF%B8%8F%202%F0%9F%93%93
 
 vless://2e122b1c-63e6-48dc-a706-baeb023d1ce9@subs3.ozen.ir:2083?path=%2Fozensubs3%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=subs3.ozen.ir#Ozen1
 
