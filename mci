@@ -12,31 +12,41 @@ vless://8552d9fb-c5a1-4aff-9a92-52beae6efc2f@de2.yo-servers.com:443?path=%2Fdown
 
 vless://8552d9fb-c5a1-4aff-9a92-52beae6efc2f@tu.de2.yo-servers.com:2086?path=%2Fdownload&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=tu.de2.yo-servers.com&type=ws&allowInsecure=0&sni=tu.de2.yo-servers.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20TU
 
-vless://8552d9fb-c5a1-4aff-9a92-52beae6efc2f@87.107.199.47:443?path=%2Fdownload&security=tls&alpn=h2&encryption=none&insecure=0&host=tu.de2.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=tu.de2.yo-servers.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20TU%202
+vless://8552d9fb-c5a1-4aff-9a92-52beae6efc2f@gb1.direct.yo-servers.com:443?path=%2Fdownload&security=tls&alpn=h2&encryption=none&insecure=0&host=gb1.direct.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=gb1.direct.yo-servers.com#%F0%9F%87%AC%F0%9F%87%A7%20GB-01%201100%20%5BD%5D
 
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@nlvip.irlink.online:25565?security=none&encryption=none&host=irancell.ir&headerType=http&type=tcp#Miti
+vless://8552d9fb-c5a1-4aff-9a92-52beae6efc2f@ua1.direct.yo-servers.com:8443?path=%2Fdownload&security=tls&alpn=h2&encryption=none&insecure=0&host=ua1.direct.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=ua1.direct.yo-servers.com#%F0%9F%87%BA%F0%9F%87%A6%20UA-01%201200%20%5BD%5D
 
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@104.16.72.70:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=x.gamingdll.ir#%F0%9F%87%A9%F0%9F%87%AA%201%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
+vless://8552d9fb-c5a1-4aff-9a92-52beae6efc2f@87.107.113.47:443?path=%2Fdownload&security=tls&alpn=h2&encryption=none&insecure=0&host=tu.de2.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=tu.de2.yo-servers.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20TU%202
 
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@151.101.1.242:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=iranpoems.ir#%F0%9F%87%A9%F0%9F%87%AA%202%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
+vless://8552d9fb-c5a1-4aff-9a92-52beae6efc2f@us1.direct.yo-servers.com:2086?path=%2Fdownload&security=tls&alpn=h2&encryption=none&insecure=0&host=us1.direct.yo-servers.com&type=ws&allowInsecure=0&sni=us1.direct.yo-servers.com#%F0%9F%87%BA%F0%9F%87%B8%20US%201000%20%5BD%5D
 
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@194.213.118.38:25565?security=&encryption=none&host=s7r.ir&headerType=http&type=tcp#%20Tunnel%20%F0%9F%87%A9%F0%9F%87%AA%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
+vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@nlvip.irlink.online:25565?security=none&encryption=none&host=irancell.ir&headerType=http&type=tcp#Mitivpn
 
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@104.16.72.70:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nl.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=nl.gamingdll.ir#%F0%9F%87%B3%F0%9F%87%B1%201%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
+vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@104.16.72.70:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=www.95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.95r.ir#%F0%9F%87%A9%F0%9F%87%AA%201%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
+
+vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@151.101.56.6:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=mitivpn-vipsub-de.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%A9%F0%9F%87%AA%202%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
+
+vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@nlvip.irlink.online:25565?security=&encryption=none&host=nlvip.irlink.online&headerType=http&type=tcp#%20%F0%9F%87%A9%F0%9F%87%AA%203%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
+
+vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@104.16.72.70:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nl.f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=nl.f6r.ir#%F0%9F%87%B3%F0%9F%87%B1%201%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
 
 vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@151.101.193.242:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=pagess.ir&fp=chrome&type=ws&allowInsecure=0&sni=pagess.ir#%F0%9F%87%B3%F0%9F%87%B1%202%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
 
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@172.66.47.69:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=frc.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=frc.gamingdll.ir#%F0%9F%87%AB%F0%9F%87%B7%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
+vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@cz2.f6r.ir:3389?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
 
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@104.16.72.70:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=pll.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=pll.gamingdll.ir#%F0%9F%87%B5%F0%9F%87%B1%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
+vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@itq.f6r.ir:25565?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
 
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@151.101.110.219:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=qwd.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#%F0%9F%87%A8%F0%9F%87%AD%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
+vmess://eyJhZGQiOiJzZC45NXIuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjFiODA1MzItNDRmNS0zM2I0LThlMTItYTdkMDBjZTc4MTdkIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIzMzg5IiwicHMiOiLwn4e28J+HpuKaoe+4jyB8INm+2LHYs9ix2LnYqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInZjbiI6IiJ9
 
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@104.16.72.70:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Czech.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=Czech.gamingdll.ir#%F0%9F%87%A8%F0%9F%87%BF%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
+vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@swit.pagess.ir:25565?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
 
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@104.16.72.70:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=italy.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=italy.gamingdll.ir#%F0%9F%87%AE%F0%9F%87%B9%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
+vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@172.66.47.69:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fr.f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=fr.f6r.ir#%F0%9F%87%AB%F0%9F%87%B7%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
 
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@151.101.110.219:443?mode=packet-up&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A%2B%7B%7D%7D&insecure=0&host=sadSzdx.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#%20%E2%80%A2%20VIP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA
+vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@104.16.72.70:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=pl.f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=pl.f6r.ir#%F0%9F%87%B5%F0%9F%87%B1%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
+
+vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@104.16.72.70:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cz.f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=cz.f6r.ir#%F0%9F%87%A8%F0%9F%87%BF%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
+
+vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@104.16.72.70:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=it.f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=it.f6r.ir#%F0%9F%87%AE%F0%9F%87%B9%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
 
 vmess://eyJhZGQiOiJkZS52aW5ldGl4by5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYmZhNDQ0MTktZTVkMi00YmUxLWI5NjQtNGQyZGI5ZGIyMDRiIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI2NTAzIiwicHMiOiLwn4ep8J+HqiBCYWJpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ==
 
@@ -46,7 +56,7 @@ vmess://eyJhZGQiOiJ0ci52aW5ldGl4by5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 
 vmess://eyJhZGQiOiJwcm8udmluZXRpeG8uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwbGF5Lmdvb2dsZS5jb20iLCJpZCI6ImJmYTQ0NDE5LWU1ZDItNGJlMS1iOTY0LTRkMmRiOWRiMjA0YiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjQyMjgiLCJwcyI6IvCfh6nwn4eqIEJhYmkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJ2Y24iOiIifQ==
 
-vless://474a4068-4b60-4859-a162-791ff06c9e9e@ultrson.zarghamweb.ir:19406?path=%2Fapout&security=tls&encryption=none&insecure=0&host=zenlay.zarghamweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=zenlay.zarghamweb.ir#%F0%9F%87%A6%F0%9F%87%AA%20%7C%20%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%20%7C%20Tunnel
+vless://474a4068-4b60-4859-a162-791ff06c9e9e@ultrson.zarghamweb.ir:19406?path=%2Fapout&security=tls&encryption=none&insecure=0&host=zenlay.zarghamweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=zenlay.zarghamweb.ir#%F0%9F%87%A6%F0%9F%87%AA%20%7C%20%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%20%7C%20Tunnel%20%7C
 
 vless://474a4068-4b60-4859-a162-791ff06c9e9e@babashoou.zarghamweb.ir:35456?path=%2Fnlout%3Fed%3D2086&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=nether.zarghamweb.ir&fp=firefox&type=ws&allowInsecure=0&sni=nether.zarghamweb.ir#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%D9%87%D9%84%D9%86%D8%AF%20%7C%20Tunnel%20%7C
 
@@ -55,8 +65,6 @@ vless://474a4068-4b60-4859-a162-791ff06c9e9e@hayati.zarghamweb.ir:37168?path=%2F
 vless://474a4068-4b60-4859-a162-791ff06c9e9e@hael.zarghamweb.ir:20300?path=%2Falbon%3Fed%3D2053&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=albaloni.zarghamweb.ir&fp=firefox&type=ws&allowInsecure=0&sni=albaloni.zarghamweb.ir#%F0%9F%87%A6%F0%9F%87%B1%20%7C%20%D8%A2%D9%84%D8%A8%D8%A7%D9%86%DB%8C%20%20%7C%20%D8%AD%D8%B0%D9%81%20%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA%20%DB%8C%D9%88%D8%AA%DB%8C%D9%88%D8%A8%20%7C%20%20
 
 vless://474a4068-4b60-4859-a162-791ff06c9e9e@hinaab.zarghamweb.ir:33387?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=fraf1.zarghamweb.ir&fp=firefox&type=ws&allowInsecure=0&sni=fraf1.zarghamweb.ir#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%7C%20Tunnel%20
-
-vless://474a4068-4b60-4859-a162-791ff06c9e9e@noilans.zarghamweb.ir:39054?path=%2Fnilan%3Fed%3D2096&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=noilan.zarghamweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=noilan.zarghamweb.ir#%F0%9F%87%A9%F0%9F%87%AA%202%20%7C%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%202%20%7C%20Tunnel%20%7C%20
 
 vless://474a4068-4b60-4859-a162-791ff06c9e9e@helon.zarghamweb.ir:30196?path=%2FAP%3Fed%3D2096&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=shalaei.zarghamweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=shalaei.zarghamweb.ir#%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF%20%7C%20Tunnel%20%7C%20
 
@@ -70,100 +78,62 @@ vless://8220efda-c223-4cef-8aec-baf3765ace5c@FR1.ZAG-FA.SOLVETA.IR:2026?security
 
 vless://8220efda-c223-4cef-8aec-baf3765ace5c@PRT1.ZAG-FA.SOLVETA.IR:7582?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F149.0.0.0%20Safari%2F537.36%20Edg%2F149.0.4022.80%22%7D%7D&pbk=131ng-awCrh9oiWmptLsrwL-h7ZqA0AeCEJqzaABvBQ&host=www.icloud.com&fp=edge&type=xhttp&sni=www.icloud.com&sid=480d9906885ba0e2#%F0%9F%87%B5%F0%9F%87%B9%20%F0%9D%99%8B%F0%9D%99%A4%F0%9D%99%A7%F0%9D%99%A9%F0%9D%99%AA%F0%9D%99%9C%F0%9D%99%96%F0%9D%99%A1
 
-vless://8220efda-c223-4cef-8aec-baf3765ace5c@COL1.ZAG-FA.SOLVEXA.IR:2087?mode=packet-up&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=edge&type=xhttp&allowInsecure=0&sni=api-col1-zagfa.melodyfax.com#%F0%9F%87%A8%F0%9F%87%B4%20%F0%9D%98%BE%F0%9D%99%A4%F0%9D%99%A1%F0%9D%99%A4%F0%9D%99%A2%F0%9D%99%97%F0%9D%99%9E%F0%9D%99%96
-
-vless://8220efda-c223-4cef-8aec-baf3765ace5c@POL1.ZAG-FA.SOLVETA.IR:2052?security=none&encryption=none&host=web.igap.net&headerType=http&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20%F0%9D%99%8B%F0%9D%99%A4%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%99
-
-vless://8220efda-c223-4cef-8aec-baf3765ace5c@DE-SHOOTY.ZAG-FA.SOLVETA.IR:7558?mode=auto&path=%2F&security=reality&encryption=none&pbk=Qnt1pGDhzS4hFEFjvmkAmwS8sjitXxe7IKUecx_eO1I&host=www.icloud.com&fp=ios&type=xhttp&sni=www.icloud.com&sid=f94d7aa7bac87583#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9D%99%82%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%AE%20a
-
-vless://8220efda-c223-4cef-8aec-baf3765ace5c@GER1.ZAG-FA.SOLVETA.IR:4461?security=reality&encryption=none&pbk=wq-RvDLHaHfThUbvmHi9CVNkmL1CZyAag3nkh9l2nic&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=03be04b34a7be188#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9D%99%82%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%AE%20b
-
-vless://8220efda-c223-4cef-8aec-baf3765ace5c@USA1.ZAG-FA.SOLVETA.IR:4462?mode=auto&security=reality&encryption=none&pbk=wq-RvDLHaHfThUbvmHi9CVNkmL1CZyAag3nkh9l2nic&fp=edge&type=xhttp&sni=www.oracle.com&sid=03be04b34a7be188#%F0%9F%87%BA%F0%9F%87%B8%20%F0%9D%99%90%20%F0%9D%99%8E%20%F0%9D%98%BC
-
-vless://8220efda-c223-4cef-8aec-baf3765ace5c@AZ.ZAG-FA.SOLVETA.IR:2052?security=&encryption=none&host=web.igap.net&headerType=http&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20%F0%9D%98%BC%F0%9D%99%AF%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%97%F0%9D%99%96%F0%9D%99%9E%F0%9D%99%9F%F0%9D%99%96%F0%9D%99%A3
-
-vless://8220efda-c223-4cef-8aec-baf3765ace5c@ENG1.ZAG-FA.SOLVEXA.IR:2053?mode=packet-up&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=edge&type=xhttp&allowInsecure=0&sni=api-en1-zagfa.melodyfax.com#%F0%9F%87%AC%F0%9F%87%A7%20%F0%9D%99%80%F0%9D%99%A3%F0%9D%99%9C%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%99
-
-vless://8220efda-c223-4cef-8aec-baf3765ace5c@NL1.ZAG-FA.SOLVEXA.IR:2083?mode=packet-up&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=edge&type=xhttp&allowInsecure=0&sni=api-nl1-zagfa.melodyfax.com#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9D%99%89%F0%9D%99%9A%F0%9D%99%A9%F0%9D%99%9D%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%99%F0%9D%99%A8
+vless://8220efda-c223-4cef-8aec-baf3765ace5c@POL1.ZAG-FA.SOLVETA.IR:2095?path=%2Fstore%2Fgames&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20%F0%9D%99%8B%F0%9D%99%A4%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%99
 
 vless://8220efda-c223-4cef-8aec-baf3765ace5c@TUR1.ZAG-FA.SOLVETA.IR:7558?mode=auto&path=%2F&security=reality&encryption=none&pbk=Qnt1pGDhzS4hFEFjvmkAmwS8sjitXxe7IKUecx_eO1I&host=www.icloud.com&fp=ios&type=xhttp&sni=www.icloud.com&sid=f94d7aa7bac87583#%F0%9F%87%B9%F0%9F%87%B7%20%F0%9D%99%8F%F0%9D%99%AA%F0%9D%99%A7%F0%9D%99%A0%F0%9D%99%9A%F0%9D%99%AE
 
+vless://8220efda-c223-4cef-8aec-baf3765ace5c@DE-SHOOTY.ZAG-FA.SOLVETA.IR:7558?mode=auto&path=%2F&security=reality&encryption=none&pbk=Qnt1pGDhzS4hFEFjvmkAmwS8sjitXxe7IKUecx_eO1I&host=www.icloud.com&fp=ios&type=xhttp&sni=www.icloud.com&sid=f94d7aa7bac87583#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9D%99%82%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%AE%20a
+
+vless://8220efda-c223-4cef-8aec-baf3765ace5c@GER1.ZAG-FA.SOLVETA.IR:4461?security=reality&encryption=none&pbk=4B_SkKg-E3BbT4uKg4bHFT7ATiHS-Zm5qCusOeYVGl0&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=13ad6bef5524eae9#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9D%99%82%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%AE%20b
+
+vless://8220efda-c223-4cef-8aec-baf3765ace5c@DE-SHOOTY.ZAG-FA.SOLVETA.IR:2095?path=%2Fstore%2Fgames&security=&encryption=none&host=play.google.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9D%99%82%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%AE%20fair
+
+vless://8220efda-c223-4cef-8aec-baf3765ace5c@USA1.ZAG-FA.SOLVETA.IR:4462?mode=auto&security=reality&encryption=none&pbk=_0pULFyweuJpwQTRIT8tMw-qZ3pAeC4bliIdLa-Ob1g&host=www.oracle.com&fp=edge&type=xhttp&sni=www.oracle.com&sid=0009034175571262#%F0%9F%87%BA%F0%9F%87%B8%20%F0%9D%99%90%20%F0%9D%99%8E%20%F0%9D%98%BC
+
+vless://8220efda-c223-4cef-8aec-baf3765ace5c@AZ.ZAG-FA.SOLVETA.IR:2052?security=&encryption=none&host=web.igap.net&headerType=http&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20%F0%9D%98%BC%F0%9D%99%AF%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%97%F0%9D%99%96%F0%9D%99%9E%F0%9D%99%9F%F0%9D%99%96%F0%9D%99%A3
+
+vless://8220efda-c223-4cef-8aec-baf3765ace5c@ENG1.ZAG-FA.SOLVEXA.IR:2053?mode=packet-up&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=e.pelastiki.com&fp=edge&type=xhttp&allowInsecure=0&sni=e.pelastiki.com#%F0%9F%87%AC%F0%9F%87%A7%20%F0%9D%99%80%F0%9D%99%A3%F0%9D%99%9C%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%99
+
+vless://8220efda-c223-4cef-8aec-baf3765ace5c@NL1.ZAG-FA.SOLVEXA.IR:2083?mode=packet-up&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=n.pelastiki.com&fp=edge&type=xhttp&allowInsecure=0&sni=n.pelastiki.com#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9D%99%89%F0%9D%99%9A%F0%9D%99%A9%F0%9D%99%9D%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%99%F0%9D%99%A8
+
+vless://8220efda-c223-4cef-8aec-baf3765ace5c@COL1.ZAG-FA.SOLVEXA.IR:2087?mode=packet-up&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=c.pelastiki.com&fp=edge&type=xhttp&allowInsecure=0&sni=c.pelastiki.com#%F0%9F%87%A8%F0%9F%87%B4%20%F0%9D%98%BE%F0%9D%99%A4%F0%9D%99%A1%F0%9D%99%A4%F0%9D%99%A2%F0%9D%99%97%F0%9D%99%9E%F0%9D%99%96
+
 vless://8220efda-c223-4cef-8aec-baf3765ace5c@YTUBE.ZAG-FA.SOLVETA.IR:7577?security=reality&encryption=none&pbk=BWDVYP9V7_Zpr4Hg6OTs_3PrfnsJNhN_bY8TLw-hnxs&host=www.icloud.com&headerType=http&fp=edge&spx=%2F&type=tcp&sni=www.icloud.com&sid=8c0240610023b276#%F0%9F%87%A6%F0%9F%87%B1%20%F0%9D%99%89%F0%9D%99%A4-%F0%9D%98%BC%F0%9D%99%99%F0%9D%99%A8%20%F0%9D%99%94%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%8F%F0%9D%99%AA%F0%9D%99%97%F0%9D%99%9A
-
-vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@tr.sannest.ir:8443?security=reality&encryption=none&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&headerType=none&fp=qq&spx=%2F&type=tcp&sni=www.yahoo.com&sid=b73cff#%F0%9F%87%B9%F0%9F%87%B7%20%7C%20%F0%9D%90%93%F0%9D%90%94%F0%9D%90%91%F0%9D%90%8A%F0%9D%90%84%F0%9D%90%98
-
-vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Fbi.gov:2096?mode=packet-up&path=%2F&security=tls&encryption=none&insecure=1&host=Nuddel.sannest.ir&fp=qq&type=xhttp&allowInsecure=1&sni=Nuddel.sannest.ir#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%F0%9D%90%8D%F0%9D%90%84%F0%9D%90%93%F0%9D%90%87%F0%9D%90%84%F0%9D%90%91%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%83%F0%9D%90%92_%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
-
-vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Fbi.gov:2083?mode=packet-up&path=%2F&security=tls&encryption=none&insecure=1&host=fn3.sannest.ir&fp=qq&type=xhttp&allowInsecure=1&sni=fn3.sannest.ir#%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%F0%9D%90%85%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%83_%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
-
-vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Fbi.gov:2083?mode=packet-up&security=tls&encryption=none&insecure=1&host=al2.sannest.ir&fp=qq&type=xhttp&allowInsecure=1&sni=al2.sannest.ir#%F0%9F%87%A6%F0%9F%87%B1%20%7C%20%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%81%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%80_%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
-
-vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@al.sannest.ir:8443?security=reality&encryption=none&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&headerType=none&fp=qq&spx=%2F&type=tcp&sni=www.yahoo.com&sid=b73cff#%F0%9F%87%A6%F0%9F%87%B1%20%7C%20%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%81%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%80%20%7C%20%F0%9D%90%8D%F0%9D%90%8E%20%F0%9D%90%80%F0%9D%90%83%F0%9D%90%92
-
-vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Fbi.gov:2083?mode=packet-up&security=tls&encryption=none&insecure=1&host=gr3.sannest.ir&fp=qq&type=xhttp&allowInsecure=1&sni=gr3.sannest.ir#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%F0%9D%90%86%F0%9D%90%84%F0%9D%90%91%F0%9D%90%8C%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%98_%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
-
-vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@151.101.193.57:80?path=%2F%3Fed%3D2048&security=&encryption=none&host=Vpsdelta.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%F0%9D%90%94%F0%9D%90%92%F0%9D%90%80-%F0%9D%90%9F%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%A5%F0%9D%90%B2%F0%9D%9F%90
-
-vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Fbi.gov:2083?mode=packet-up&security=tls&encryption=none&insecure=1&host=ar2.sannest.ir&fp=qq&type=xhttp&allowInsecure=1&sni=ar2.sannest.ir#%F0%9F%87%A6%F0%9F%87%B2%20%7C%20%F0%9D%90%80%F0%9D%90%91%F0%9D%90%8C%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%80_%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
-
-vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Fbi.gov:2083?mode=packet-up&security=tls&encryption=none&insecure=1&host=ja3.sannest.ir&fp=qq&type=xhttp&allowInsecure=1&sni=ja3.sannest.ir#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%F0%9D%90%89%F0%9D%90%80%F0%9D%90%8F%F0%9D%90%80%F0%9D%90%8D_%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
-
-vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@ja2.sannest.ir:8443?security=reality&encryption=none&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&headerType=none&fp=qq&spx=%2F&type=tcp&sni=www.yahoo.com&sid=b73cff#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%F0%9D%90%89%F0%9D%90%80%F0%9D%90%8F%F0%9D%90%80%F0%9D%90%8D
-
-vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@151.101.110.219:80?path=%2F%3Fed%3D2048&security=&encryption=none&host=Vpsdelta.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%F0%9D%90%94%F0%9D%90%92%F0%9D%90%80-%F0%9D%90%9F%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%A5%F0%9D%90%B2
-
-vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Fbi.gov:2083?mode=packet-up&security=tls&encryption=none&insecure=1&host=us22.sannest.ir&fp=qq&type=xhttp&allowInsecure=1&sni=us22.sannest.ir#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%F0%9D%90%94%F0%9D%90%92%F0%9D%90%80_%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
-
-vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Fbi.gov:2083?mode=packet-up&security=tls&encryption=none&insecure=1&host=ua2.sannest.ir&fp=qq&type=xhttp&allowInsecure=1&sni=ua2.sannest.ir#%F0%9F%87%A6%F0%9F%87%AA%20%7C%20%F0%9D%90%94%F0%9D%90%80%F0%9D%90%84_%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
-
-vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Fbi.gov:2083?mode=packet-up&security=tls&encryption=none&insecure=1&host=fr2.sannest.ir&fp=qq&type=xhttp&allowInsecure=1&sni=fr2.sannest.ir#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%F0%9D%90%85%F0%9D%90%91%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%82%F0%9D%90%84_%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
-
-vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Fbi.gov:2083?mode=packet-up&security=tls&encryption=none&insecure=1&host=tr.sannest.ir&fp=qq&type=xhttp&allowInsecure=1&sni=tr.sannest.ir#%F0%9F%87%B9%F0%9F%87%B7%20%7C%20%F0%9D%90%93%F0%9D%90%94%F0%9D%90%91%F0%9D%90%8A%F0%9D%90%84%F0%9D%90%98_%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
 
 vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@ar.sannest.ir:8443?security=reality&encryption=none&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&headerType=none&fp=qq&spx=%2F&type=tcp&sni=www.yahoo.com&sid=b73cff#%F0%9F%87%A6%F0%9F%87%B2%20%7C%20%F0%9D%90%80%F0%9D%90%91%F0%9D%90%8C%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%80
 
-vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@sio.sannest.ir:8443?security=reality&encryption=none&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&headerType=none&fp=qq&spx=%2F&type=tcp&sni=www.yahoo.com&sid=b73cff#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%F0%9D%90%86%F0%9D%90%84%F0%9D%90%91%F0%9D%90%8C%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%98
+vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Nh.sannest.ir:8443?security=reality&encryption=none&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.yahoo.com&sid=b73cff#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%F0%9D%90%8D%F0%9D%90%84%F0%9D%90%93%F0%9D%90%87%F0%9D%90%84%F0%9D%90%91%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%83%F0%9D%90%92
 
-vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Fbi.gov:2083?mode=packet-up&security=tls&encryption=none&insecure=1&host=it2.sannest.ir&fp=qq&type=xhttp&allowInsecure=1&sni=it2.sannest.ir#%F0%9F%87%AE%F0%9F%87%B9%20%7C%20%F0%9D%90%88%F0%9D%90%93%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%98_%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
-
-vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Nh.sannest.ir:8443?security=reality&encryption=none&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&headerType=none&fp=qq&spx=%2F&type=tcp&sni=www.yahoo.com&sid=b73cff#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%F0%9D%90%8D%F0%9D%90%84%F0%9D%90%93%F0%9D%90%87%F0%9D%90%84%F0%9D%90%91%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%83%F0%9D%90%92
+vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@tr.sannest.ir:8443?security=reality&encryption=none&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.yahoo.com&sid=b73cff#%F0%9F%87%B9%F0%9F%87%B7%20%7C%20%F0%9D%90%93%F0%9D%90%94%F0%9D%90%91%F0%9D%90%8A%F0%9D%90%84%F0%9D%90%98
 
 vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@fn.sannest.ir:8443?security=reality&encryption=none&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&headerType=none&fp=qq&spx=%2F&type=tcp&sni=www.yahoo.com&sid=b73cff#%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%F0%9D%90%85%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%83
 
-vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@it.sannest.ir:8443?security=reality&encryption=none&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&headerType=none&fp=qq&spx=%2F&type=tcp&sni=www.yahoo.com&sid=b73cff#%F0%9F%87%AE%F0%9F%87%B9%20%7C%20%F0%9D%90%88%F0%9D%90%93%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%98
-
-vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@ua.sannest.ir:8443?security=reality&encryption=none&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&headerType=none&fp=qq&spx=%2F&type=tcp&sni=www.yahoo.com&sid=b73cff#%F0%9F%87%A6%F0%9F%87%AA%20%7C%20%F0%9D%90%94%F0%9D%90%80%F0%9D%90%84
-
 vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@fr.sannest.ir:8443?security=reality&encryption=none&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&headerType=none&fp=qq&spx=%2F&type=tcp&sni=www.yahoo.com&sid=b73cff#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%F0%9D%90%85%F0%9D%90%91%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%82%F0%9D%90%84
 
-vless://b7fd2fac-33c8-484a-a4e8-0d684be3993b@bxeghtonq9.lucypro.ir:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAGermany1
+vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Fbi.gov:2083?mode=packet-up&security=tls&encryption=none&insecure=1&host=fr2.sannest.ir&fp=qq&type=xhttp&allowInsecure=1&sni=fr2.sannest.ir#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%F0%9D%90%85%F0%9D%90%91%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%82%F0%9D%90%84_%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
 
-vless://b7fd2fac-33c8-484a-a4e8-0d684be3993b@dashboard.persianvpss.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7T%C3%BCrkiye
+vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Fbi.gov:2083?mode=packet-up&security=tls&encryption=none&insecure=1&host=us22.sannest.ir&fp=qq&type=xhttp&allowInsecure=1&sni=us22.sannest.ir#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%F0%9D%90%94%F0%9D%90%92%F0%9D%90%80_%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
 
-vless://b7fd2fac-33c8-484a-a4e8-0d684be3993b@YPK.lucypro.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1Netherlands
+vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Fbi.gov:2083?mode=packet-up&security=tls&encryption=none&insecure=1&host=ar2.sannest.ir&fp=qq&type=xhttp&allowInsecure=1&sni=ar2.sannest.ir#%F0%9F%87%A6%F0%9F%87%B2%20%7C%20%F0%9D%90%80%F0%9D%90%91%F0%9D%90%8C%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%80_%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
 
-vless://b7fd2fac-33c8-484a-a4e8-0d684be3993b@VDS.lucypro.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7United%20Kingdom
+vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@sio.sannest.ir:8443?security=reality&encryption=none&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&headerType=none&fp=qq&spx=%2F&type=tcp&sni=www.yahoo.com&sid=b73cff#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%F0%9D%90%86%F0%9D%90%84%F0%9D%90%91%F0%9D%90%8C%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%98
 
-vless://b7fd2fac-33c8-484a-a4e8-0d684be3993b@BVB.lucypro.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B5%F0%9F%87%B1Poland
+vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@ja2.sannest.ir:8443?security=reality&encryption=none&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&headerType=none&fp=qq&spx=%2F&type=tcp&sni=www.yahoo.com&sid=b73cff#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%F0%9D%90%89%F0%9D%90%80%F0%9D%90%8F%F0%9D%90%80%F0%9D%90%8D
 
-vless://b7fd2fac-33c8-484a-a4e8-0d684be3993b@DASH.ferdowsi-rgb.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7Franc
+vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Fbi.gov:2083?mode=packet-up&security=tls&encryption=none&insecure=1&host=ja3.sannest.ir&fp=qq&type=xhttp&allowInsecure=1&sni=ja3.sannest.ir#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%F0%9D%90%89%F0%9D%90%80%F0%9D%90%8F%F0%9D%90%80%F0%9D%90%8D_%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCc20wMWJDOHhTNlZHN2hnWlVSN3Z3@cnc.netbazshop.ir:1616#%F0%9F%87%A9%F0%9F%87%AAtunnel%202%F0%9F%9A%80
+vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@151.101.193.57:80?path=%2F%3Fed%3D2048&security=&encryption=none&host=Vpsdelta.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20%7C%20%F0%9D%90%93%F0%9D%90%94%F0%9D%90%91%F0%9D%90%8A%F0%9D%90%84%F0%9D%90%98-%F0%9D%90%9F%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%A5%F0%9D%90%B2%F0%9D%9F%90
 
-vless://b7fd2fac-33c8-484a-a4e8-0d684be3993b@QEQ.netbazshop.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAGermany2
+vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Fbi.gov:2096?mode=packet-up&path=%2F&security=tls&encryption=none&insecure=1&host=Nuddel.sannest.ir&fp=qq&type=xhttp&allowInsecure=1&sni=Nuddel.sannest.ir#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%F0%9D%90%8D%F0%9D%90%84%F0%9D%90%93%F0%9D%90%87%F0%9D%90%84%F0%9D%90%91%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%83%F0%9D%90%92_%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
 
-vless://b7fd2fac-33c8-484a-a4e8-0d684be3993b@FPRER.lucypro.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
+vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Fbi.gov:2083?mode=packet-up&security=tls&encryption=none&insecure=1&host=al2.sannest.ir&fp=qq&type=xhttp&allowInsecure=1&sni=al2.sannest.ir#%F0%9F%87%A6%F0%9F%87%B1%20%7C%20%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%81%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%80_%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
 
-vless://b7fd2fac-33c8-484a-a4e8-0d684be3993b@gpor.lucypro.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B9Italy
+vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@151.101.110.219:80?path=%2F%3Fed%3D2048&security=&encryption=none&host=Vpsdelta.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20%7C%20%F0%9D%90%93%F0%9D%90%94%F0%9D%90%91%F0%9D%90%8A%F0%9D%90%84%F0%9D%90%98-%F0%9D%90%9F%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%A5%F0%9D%90%B2
 
-vless://b7fd2fac-33c8-484a-a4e8-0d684be3993b@pepco.lucypro.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B8%F0%9F%87%AASweden
+vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Fbi.gov:2083?mode=packet-up&security=tls&encryption=none&insecure=1&host=gr3.sannest.ir&fp=qq&type=xhttp&allowInsecure=1&sni=gr3.sannest.ir#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%F0%9D%90%86%F0%9D%90%84%F0%9D%90%91%F0%9D%90%8C%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%98_%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCc20wMWJDOHhTNlZHN2hnWlVSN3Z3@BNB.netbazshop.ir:1616#%F0%9F%87%A9%F0%9F%87%AAtunnel%201%F0%9F%9A%80
+vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Fbi.gov:2083?mode=packet-up&security=tls&encryption=none&insecure=1&host=tr2.sannest.ir&fp=qq&type=xhttp&allowInsecure=1&sni=tr2.sannest.ir#%F0%9F%87%B9%F0%9F%87%B7%20%7C%20%F0%9D%90%93%F0%9D%90%94%F0%9D%90%91%F0%9D%90%8A%F0%9D%90%84%F0%9D%90%98_%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
 
-vless://b7fd2fac-33c8-484a-a4e8-0d684be3993b@POP.lucypro.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%BA%F0%9F%87%B2USA
+vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@Fbi.gov:2083?mode=packet-up&path=%2F&security=tls&encryption=none&insecure=1&host=fn3.sannest.ir&fp=qq&type=xhttp&allowInsecure=1&sni=fn3.sannest.ir#%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%F0%9D%90%85%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%83_%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
 
-vless://b7fd2fac-33c8-484a-a4e8-0d684be3993b@lkAGWQhxH5.mobileatlass.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A6%F0%9F%87%AAUAE
-
-vless://b7fd2fac-33c8-484a-a4e8-0d684be3993b@SLX.lucypro.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A6%F0%9F%87%BFAzerbaijan
-
-vless://b7fd2fac-33c8-484a-a4e8-0d684be3993b@SLK.lucypro.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B3India
+vless://87ff3e3f-f64c-d73f-44fd-25522ff0d348@al.sannest.ir:8443?security=reality&encryption=none&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&headerType=none&fp=qq&spx=%2F&type=tcp&sni=www.yahoo.com&sid=b73cff#%F0%9F%87%A6%F0%9F%87%B1%20%7C%20%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%81%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%80%20%7C%20%F0%9D%90%8D%F0%9D%90%8E%20%F0%9D%90%80%F0%9D%90%83%F0%9D%90%92
