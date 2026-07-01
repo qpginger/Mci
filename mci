@@ -44,20 +44,6 @@ vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@91.193.58.201:443?path=%2F&security
 
 vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@94.140.0.40:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=f-r.pagess.ir&fp=chrome&type=ws&allowInsecure=0&sni=f-r.pagess.ir#%F0%9F%87%AB%F0%9F%87%B7%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
 
-vless://474a4068-4b60-4859-a162-791ff06c9e9e@ultrson.zarghamweb.ir:19406?path=%2Fapout&security=tls&encryption=none&insecure=0&host=zenlay.zarghamweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=zenlay.zarghamweb.ir#%F0%9F%87%A6%F0%9F%87%AA%20%7C%20%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%20%7C%20Tunnel%20%7C
-
-vless://474a4068-4b60-4859-a162-791ff06c9e9e@babashoou.zarghamweb.ir:35456?path=%2Fnlout%3Fed%3D2086&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=nether.zarghamweb.ir&fp=firefox&type=ws&allowInsecure=0&sni=nether.zarghamweb.ir#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%D9%87%D9%84%D9%86%D8%AF%20%7C%20Tunnel%20%7C
-
-vless://474a4068-4b60-4859-a162-791ff06c9e9e@hael.zarghamweb.ir:20300?path=%2Falbon%3Fed%3D2053&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=albaloni.zarghamweb.ir&fp=firefox&type=ws&allowInsecure=0&sni=albaloni.zarghamweb.ir#%F0%9F%87%A6%F0%9F%87%B1%20%7C%20%D8%A2%D9%84%D8%A8%D8%A7%D9%86%DB%8C%20%20%7C%20%D8%AD%D8%B0%D9%81%20%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA%20%DB%8C%D9%88%D8%AA%DB%8C%D9%88%D8%A8%20%7C%20%20
-
-vless://474a4068-4b60-4859-a162-791ff06c9e9e@hinaab.zarghamweb.ir:33387?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=fraf1.zarghamweb.ir&fp=firefox&type=ws&allowInsecure=0&sni=fraf1.zarghamweb.ir#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%7C%20Tunnel%20
-
-vless://474a4068-4b60-4859-a162-791ff06c9e9e@helon.zarghamweb.ir:30196?path=%2FAP%3Fed%3D2096&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=shalaei.zarghamweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=shalaei.zarghamweb.ir#%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF%20%7C%20Tunnel%20%7C%20
-
-vless://474a4068-4b60-4859-a162-791ff06c9e9e@mozis.zarghamweb.ir:20422?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=gbmill.zarghamweb.ir&fp=firefox&type=ws&allowInsecure=0&sni=gbmill.zarghamweb.ir#%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%20%7C%20Tunnel%20%7C%20
-
-vless://474a4068-4b60-4859-a162-791ff06c9e9e@hamanoia.zarghamweb.ir:50975?path=%2Fcdi&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=andress.zarghamweb.ir&fp=firefox&type=ws&allowInsecure=0&sni=andress.zarghamweb.ir#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%20%7C%20Tunnel%20
-
 vless://8552d9fb-c5a1-4aff-9a92-52beae6efc2f@nl2.yo-servers.com:443?path=%2Fdownload&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=nl2.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=nl2.yo-servers.com#Yovpn
 
 vless://8552d9fb-c5a1-4aff-9a92-52beae6efc2f@nl2.yo-servers.com:443?path=%2Fdownload&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=nl2.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=nl2.yo-servers.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherland%203103%20%5BCF%5D
