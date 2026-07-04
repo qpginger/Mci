@@ -2,28 +2,6 @@ vless://9fbb54e7-221d-4ac0-8a6f-5a8e37706cd3@subs3.ozen.ir:8443?path=%2Fsubs3884
 
 vless://2e122b1c-63e6-48dc-a706-baeb023d1ce9@subs3.ozen.ir:2083?path=%2Fozensubs3%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=subs3.ozen.ir#%22%D9%87%D8%B1%20%D8%B1%D9%88%D8%B2%20%D8%B3%D8%A7%D8%A8%20%D8%B1%D8%A7%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%DA%A9%D9%86%DB%8C%D8%AF%22
 
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@127.0.0.1:25565?security=none&encryption=none&headerType=http&type=tcp#Mitivpn
-
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@91.193.58.201:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d-e.pagess.ir&fp=chrome&type=ws&allowInsecure=0&sni=d-e.pagess.ir#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
-
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@151.101.56.7:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=mitivpn-vipsub-de.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%A9%F0%9F%87%AA%202%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
-
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@nlvip.irlink.online:25565?security=&encryption=none&host=nlvip.irlink.online&headerType=http&type=tcp#%20%E2%80%A2%20VIP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%9A%A1%EF%B8%8F
-
-vmess://eyJhZGQiOiIxNzIuNjUuMTM2LjE0NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmMWI4MDUzMi00NGY1LTMzYjQtOGUxMi1hN2QwMGNlNzgxN2QiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjMzODkiLCJwcyI6IvCfh7bwn4em4pqh77iPIHwg2b7Ysdiz2LHYudiqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwidmNuIjoiIn0=
-
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@ch.esalat.site:25565?security=&encryption=none&host=ch.esalat.site&headerType=http&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
-
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@104.18.42.77:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ch--h.f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=ch--h.f6r.ir#%F0%9F%87%A8%F0%9F%87%AD%202%20%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
-
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@nlll.f6r.ir:25565?security=&encryption=none&host=nlll.f6r.ir&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%202%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
-
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@88.216.67.151:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nl-and.f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=nl-and.f6r.ir#%F0%9F%87%B3%F0%9F%87%B1%203%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
-
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@45.131.4.116:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=fr.f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=fr.f6r.ir#%F0%9F%87%AB%F0%9F%87%B7%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
-
-vless://f1b80532-44f5-33b4-8e12-a7d00ce7817d@104.18.3.97:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=pl.f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=pl.f6r.ir#%F0%9F%87%B5%F0%9F%87%B1%E2%9A%A1%EF%B8%8F%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
-
 vmess://eyJhZGQiOiI4OS40Ny4yMDIuMjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjNGJhYWIzLTMzMjQtNDEwYS04ZDdhLTM5NTcwNmFjMjlmNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMzE1OTEiLCJwcyI6IkV4aXQgLSAwMfCfk4oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
 
 vmess://eyJhZGQiOiI4OS40Ny4yMDIuMjI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjNGJhYWIzLTMzMjQtNDEwYS04ZDdhLTM5NTcwNmFjMjlmNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMzE1OTEiLCJwcyI6IkV4aXQgLSAwMvCfk4oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
