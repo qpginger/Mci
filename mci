@@ -2,40 +2,6 @@ vless://9fbb54e7-221d-4ac0-8a6f-5a8e37706cd3@subs3.ozen.ir:8443?path=%2Fsubs3884
 
 vless://2e122b1c-63e6-48dc-a706-baeb023d1ce9@subs3.ozen.ir:2083?path=%2Fozensubs3%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=subs3.ozen.ir#%22%D9%87%D8%B1%20%D8%B1%D9%88%D8%B2%20%D8%B3%D8%A7%D8%A8%20%D8%B1%D8%A7%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%DA%A9%D9%86%DB%8C%D8%AF%22
 
-vless://1f72a8f4-72c7-43f0-86d1-82d7bd145aa5@nl2.yo-servers.com:443?path=%2Fdownload&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=nl2.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=nl2.yo-servers.com#%F0%9F%94%B1%20%7C%20Yo
-
-vless://1f72a8f4-72c7-43f0-86d1-82d7bd145aa5@nl2.yo-servers.com:443?path=%2Fdownload&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=nl2.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=nl2.yo-servers.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherland%203103%20%5BCF%5D
-
-vless://1f72a8f4-72c7-43f0-86d1-82d7bd145aa5@tu.nl2.yo-servers.com:443?path=%2Fdownload&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=tu.nl2.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=tu.nl2.yo-servers.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%203001%20%5BTU%5D
-
-vless://1f72a8f4-72c7-43f0-86d1-82d7bd145aa5@gb3.tu.yo-servers.com:443?path=%2Fdownload&security=tls&alpn=h2&encryption=none&insecure=0&host=gb3.tu.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=gb3.tu.yo-servers.com#%F0%9F%87%AC%F0%9F%87%A7%20GB-03%201100%20%5BT%5D
-
-vless://1f72a8f4-72c7-43f0-86d1-82d7bd145aa5@de2.yo-servers.com:443?path=%2Fdownload&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=de2.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=de2.yo-servers.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%201003%20%5BCF%5D
-
-vless://1f72a8f4-72c7-43f0-86d1-82d7bd145aa5@tu.de2.yo-servers.com:2086?path=%2Fdownload&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=tu.de2.yo-servers.com&type=ws&allowInsecure=0&sni=tu.de2.yo-servers.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BD%5D
-
-vless://1f72a8f4-72c7-43f0-86d1-82d7bd145aa5@87.107.113.47:443?path=%2Fdownload&security=tls&alpn=h2&encryption=none&insecure=0&host=tu.de2.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=tu.de2.yo-servers.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BTU%5D
-
-vless://1f72a8f4-72c7-43f0-86d1-82d7bd145aa5@gb1.direct.yo-servers.com:443?path=%2Fdownload&security=tls&alpn=h2&encryption=none&insecure=0&host=gb1.direct.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=gb1.direct.yo-servers.com#%F0%9F%87%AC%F0%9F%87%A7%20GB-01%201100%20%5BD%5D
-
-vless://1f72a8f4-72c7-43f0-86d1-82d7bd145aa5@ua1.direct.yo-servers.com:8443?path=%2Fdownload&security=tls&alpn=h2&encryption=none&insecure=0&host=ua1.direct.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=ua1.direct.yo-servers.com#%F0%9F%87%BA%F0%9F%87%A6%20UA-01%201200%20%5BD%5D
-
-vless://1f72a8f4-72c7-43f0-86d1-82d7bd145aa5@nl1.direct.yo-servers.com:2086?path=%2Fdownload&security=tls&alpn=h2&encryption=none&insecure=0&host=nl1.direct.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=nl1.direct.yo-servers.com#%F0%9F%87%B3%F0%9F%87%B1%20NL-01%201300%20%5BD%5D
-
-vless://1f72a8f4-72c7-43f0-86d1-82d7bd145aa5@us1.direct.yo-servers.com:2086?path=%2Fdownload&security=tls&alpn=h2&encryption=none&insecure=0&host=us1.direct.yo-servers.com&type=ws&allowInsecure=0&sni=us1.direct.yo-servers.com#%F0%9F%87%BA%F0%9F%87%B8%20US%201000%20%5BD%5D
-
-vless://1f72a8f4-72c7-43f0-86d1-82d7bd145aa5@at2.direct.yo-servers.com:2053?path=%2Fdownload&security=tls&alpn=h2&encryption=none&insecure=0&host=at2.direct.yo-servers.com&type=ws&allowInsecure=0&sni=at2.direct.yo-servers.com#%F0%9F%87%A6%F0%9F%87%B9%20AT-02%201400%20%5BD%5D
-
-vless://1f72a8f4-72c7-43f0-86d1-82d7bd145aa5@at1-cf.yo-servers.com:443?path=%2Fdownload&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=at1-cf.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=at1-cf.yo-servers.com#%F0%9F%87%A6%F0%9F%87%B9%20AT-01%201400%20%5BC%5D
-
-vless://1f72a8f4-72c7-43f0-86d1-82d7bd145aa5@us2-cf.yo-servers.com:2053?path=%2Fdownload&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=us2-cf.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=us2-cf.yo-servers.com#%F0%9F%87%BA%F0%9F%87%B8%20US-02%201000%20%5BC%5D
-
-vless://1f72a8f4-72c7-43f0-86d1-82d7bd145aa5@gb2-cf.yo-servers.com:2083?path=%2Fdownload&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=gb2-cf.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=gb2-cf.yo-servers.com#%F0%9F%87%AC%F0%9F%87%A7%20GB-02%201100%20%5BC%5D
-
-vless://1f72a8f4-72c7-43f0-86d1-82d7bd145aa5@ua2-cf.yo-servers.com:2087?path=%2Fdownload&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=ua2-cf.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=ua2-cf.yo-servers.com#%F0%9F%87%BA%F0%9F%87%A6%20UA-02%201200%20%5BC%5D
-
-vless://1f72a8f4-72c7-43f0-86d1-82d7bd145aa5@nl2-cf.yo-servers.com:8443?path=%2Fdownload&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=nl2-cf.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=nl2-cf.yo-servers.com#%F0%9F%87%B3%F0%9F%87%B1%20NL-02%201300%20%5BC%5D
-
 vless://23385e26-8356-4540-9dee-f70ff83d6cfe@18.64.181.172:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d1zred72va4ush.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=d1zred72va4ush.cloudfront.net#%F0%9F%87%A9%F0%9F%87%AA%20BT_User
 
 vless://23385e26-8356-4540-9dee-f70ff83d6cfe@18.64.181.172:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d249gdgrzff0dj.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=d249gdgrzff0dj.cloudfront.net#%F0%9F%87%BA%F0%9F%87%B8%20BT_User
