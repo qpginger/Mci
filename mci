@@ -8,7 +8,11 @@ vmess://eyJhZGQiOiJjaC52aW5ldGl4by5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 
 vmess://eyJhZGQiOiJ0ci52aW5ldGl4by5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDMzNDE3MWMtYTVlZS00ZWY5LThlMWQtZDZmZjlmNzZmOWY0IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI2NTA1IiwicHMiOiLwn4e58J+HtyB8IFZpTkVUIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
 
-vmess://eyJhZGQiOiJwcm8udmluZXRpeG8uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwbGF5Lmdvb2dsZS5jb20iLCJpZCI6IjQzMzQxNzFjLWE1ZWUtNGVmOS04ZTFkLWQ2ZmY5Zjc2ZjlmNCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjQyMjgiLCJwcyI6IvCfh6nwn4eqIHwgVmlORVQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInZjbiI6IiJ9
+vless://23385e26-8356-4540-9dee-f70ff83d6cfe@18.64.181.172:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=dgixmm1wvyvu4.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=dgixmm1wvyvu4.cloudfront.net#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Alpine
+
+vless://23385e26-8356-4540-9dee-f70ff83d6cfe@18.64.181.172:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d249gdgrzff0dj.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=d249gdgrzff0dj.cloudfront.net#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20Alpine
+
+vless://23385e26-8356-4540-9dee-f70ff83d6cfe@143.204.192.50:443?path=%2Fapi%2Fgb1%2Fws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d249gdgrzff0dj.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=d249gdgrzff0dj.cloudfront.net#%F0%9F%87%AC%F0%9F%87%A7%20%7C%20Alpine
 
 vless://8d1f9b9e-bb58-42d1-936c-4273c02c63fa@nl2.yo-servers.com:443?path=%2Fdownload&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=nl2.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=nl2.yo-servers.com#%F0%9F%94%B1%20%7C%20Yo
 
@@ -43,9 +47,3 @@ vless://8d1f9b9e-bb58-42d1-936c-4273c02c63fa@gb2-cf.yo-servers.com:2083?path=%2F
 vless://8d1f9b9e-bb58-42d1-936c-4273c02c63fa@ua2-cf.yo-servers.com:2087?path=%2Fdownload&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=ua2-cf.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=ua2-cf.yo-servers.com#%F0%9F%87%BA%F0%9F%87%A6%20UA-02%201200%20%5BC%5D
 
 vless://8d1f9b9e-bb58-42d1-936c-4273c02c63fa@nl2-cf.yo-servers.com:8443?path=%2Fdownload&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=nl2-cf.yo-servers.com&fp=chrome&type=ws&allowInsecure=0&sni=nl2-cf.yo-servers.com#%F0%9F%87%B3%F0%9F%87%B1%20NL-02%201300%20%5BC%5D
-
-vless://23385e26-8356-4540-9dee-f70ff83d6cfe@18.64.181.172:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=dgixmm1wvyvu4.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=dgixmm1wvyvu4.cloudfront.net#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Alpine
-
-vless://23385e26-8356-4540-9dee-f70ff83d6cfe@18.64.181.172:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d249gdgrzff0dj.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=d249gdgrzff0dj.cloudfront.net#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20Alpine
-
-vless://23385e26-8356-4540-9dee-f70ff83d6cfe@143.204.192.50:443?path=%2Fapi%2Fgb1%2Fws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d249gdgrzff0dj.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=d249gdgrzff0dj.cloudfront.net#%F0%9F%87%AC%F0%9F%87%A7%20%7C%20Alpine
