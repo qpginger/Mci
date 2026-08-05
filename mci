@@ -2,6 +2,10 @@ vless://9fbb54e7-221d-4ac0-8a6f-5a8e37706cd3@subs3.ozen.ir:8443?path=%2Fsubs3884
 
 vless://2e122b1c-63e6-48dc-a706-baeb023d1ce9@subs3.ozen.ir:2083?path=%2Fozensubs3%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=subs3.ozen.ir#%22%D9%87%D8%B1%20%D8%B1%D9%88%D8%B2%20%D8%B3%D8%A7%D8%A8%20%D8%B1%D8%A7%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%DA%A9%D9%86%DB%8C%D8%AF%22
 
+vless://b85cb93e-f1b0-4fa5-8794-ac91ac845bce@CG.IRGONDE.IR:443?path=%2Froute&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=zone02.solvexa.ir&fp=chrome&type=ws&allowInsecure=0&sni=zone02.solvexa.ir#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20MCI%20-%20WiFi
+
+vless://b85cb93e-f1b0-4fa5-8794-ac91ac845bce@www.tamin.ir:2052?security=none&encryption=none&host=c1.kelnvira.ir&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20MCI%20-%20WiFi
+
 vmess://eyJhZGQiOiJkZS52aW5ldGl4by5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDMzNDE3MWMtYTVlZS00ZWY5LThlMWQtZDZmZjlmNzZmOWY0IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI2NTAzIiwicHMiOiLwn4ep8J+HqiB8IFZpTkVUIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
 
 vmess://eyJhZGQiOiJjaC52aW5ldGl4by5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDMzNDE3MWMtYTVlZS00ZWY5LThlMWQtZDZmZjlmNzZmOWY0IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI2NTA0IiwicHMiOiLwn4eo8J+HrXwgVmlORVQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
