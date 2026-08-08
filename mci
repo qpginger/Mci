@@ -2,12 +2,6 @@ vless://9fbb54e7-221d-4ac0-8a6f-5a8e37706cd3@subs3.ozen.ir:8443?path=%2Fsubs3884
 
 vless://2e122b1c-63e6-48dc-a706-baeb023d1ce9@subs3.ozen.ir:2083?path=%2Fozensubs3%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=subs3.ozen.ir#%22%D9%87%D8%B1%20%D8%B1%D9%88%D8%B2%20%D8%B3%D8%A7%D8%A8%20%D8%B1%D8%A7%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%DA%A9%D9%86%DB%8C%D8%AF%22
 
-vmess://eyJhZGQiOiJjaC52aW5ldGl4by5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDMzNDE3MWMtYTVlZS00ZWY5LThlMWQtZDZmZjlmNzZmOWY0IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI2NTA0IiwicHMiOiLwn4eo8J+HrXwgVmlORVQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-
-vmess://eyJhZGQiOiJ0ci52aW5ldGl4by5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDMzNDE3MWMtYTVlZS00ZWY5LThlMWQtZDZmZjlmNzZmOWY0IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI2NTA1IiwicHMiOiLwn4e58J+HtyB8IFZpTkVUIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
-
-vmess://eyJhZGQiOiJwcm8udmluZXRpeG8uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwbGF5Lmdvb2dsZS5jb20iLCJpZCI6IjQzMzQxNzFjLWE1ZWUtNGVmOS04ZTFkLWQ2ZmY5Zjc2ZjlmNCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjQyMjgiLCJwcyI6IvCfh6nwn4eqIHwgVmlORVQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInZjbiI6IiJ9
-
 trojan://kfpmmtV4VzEUPvYDUdKO3YskUeHp3wLk@GER1.ZAG-FA.SOLVETA.IR:2086?mode=stream-up&path=%2F&security=none&host=play.google.com&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9D%99%82%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%AE%201%20%E2%9A%A1%EF%B8%8E
 
 trojan://kfpmmtV4VzEUPvYDUdKO3YskUeHp3wLk@GER2.ZAG-FA.SOLVETA.IR:2086?mode=stream-one&path=%2F&security=none&host=play.google.com&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9D%99%82%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%AE%202%20%E2%9A%A1%EF%B8%8E
