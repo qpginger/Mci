@@ -2,6 +2,34 @@ vless://9fbb54e7-221d-4ac0-8a6f-5a8e37706cd3@subs3.ozen.ir:8443?path=%2Fsubs3884
 
 vless://2e122b1c-63e6-48dc-a706-baeb023d1ce9@subs3.ozen.ir:2083?path=%2Fozensubs3%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=subs3.ozen.ir#%22%D9%87%D8%B1%20%D8%B1%D9%88%D8%B2%20%D8%B3%D8%A7%D8%A8%20%D8%B1%D8%A7%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%DA%A9%D9%86%DB%8C%D8%AF%22
 
+vless://b85cb93e-f1b0-4fa5-8794-ac91ac845bce@snapp.ir:2052?security=none&encryption=none&host=c1.kelnvira.ir&type=httpupgrade#%F0%9F%92%A4%20%7C%20War%20-%20%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C
+
+vless://b85cb93e-f1b0-4fa5-8794-ac91ac845bce@FRC1.ZAG-FA.SOLVETA.IR:16061?security=reality&encryption=none&pbk=i-1Q4pe5I_Gfo6dJ4YgvDNgjb4WGw49yC7e0esfDLSI&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=drive.google.com&sid=e9527ba77418b05c#%F0%9F%87%AB%F0%9F%87%B7%20%F0%9D%99%81%F0%9D%99%A7%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%98%F0%9D%99%9A
+
+vless://b85cb93e-f1b0-4fa5-8794-ac91ac845bce@104.16.6.70:443?path=%2Froute&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=zone01.solvexa.ir&fp=chrome&type=ws&allowInsecure=0&sni=zone01.solvexa.ir#%F0%9F%87%AB%F0%9F%87%B7%20%F0%9D%99%81%F0%9D%99%A7%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%98%F0%9D%99%9A%20%F0%9D%9F%AE
+
+vless://b85cb93e-f1b0-4fa5-8794-ac91ac845bce@IT1.ZAG-FA.SOLVETA.IR:22999?security=reality&encryption=none&pbk=mPYP_E1bJqvNXD-uKRU4QFyXk6B9lweXX5cqgbq3l3M&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=evernote.com&sid=16b3713dce93ee0c#%F0%9F%87%AE%F0%9F%87%B9%20%F0%9D%99%84%F0%9D%99%A9%F0%9D%99%96%F0%9D%99%A1%F0%9D%99%AE
+
+vless://b85cb93e-f1b0-4fa5-8794-ac91ac845bce@UK1.ZAG-FA.SOLVETA.IR:9982?security=reality&encryption=none&pbk=mPYP_E1bJqvNXD-uKRU4QFyXk6B9lweXX5cqgbq3l3M&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=mozilla.org&sid=16b3713dce93ee0c#%F0%9F%87%AC%F0%9F%87%A7%20%F0%9D%99%80%F0%9D%99%A3%F0%9D%99%9C%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%99
+
+vless://b85cb93e-f1b0-4fa5-8794-ac91ac845bce@USA1.ZAG-FA.SOLVETA.IR:16063?security=reality&encryption=none&pbk=i-1Q4pe5I_Gfo6dJ4YgvDNgjb4WGw49yC7e0esfDLSI&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.tgju.org&sid=e9527ba77418b05c#%F0%9F%87%BA%F0%9F%87%B8%20%F0%9D%99%90%F0%9D%99%8E%F0%9D%98%BC
+
+vless://b85cb93e-f1b0-4fa5-8794-ac91ac845bce@GETWO.ZAG-FA.SOLVETA.IR:16062?security=reality&encryption=none&pbk=i-1Q4pe5I_Gfo6dJ4YgvDNgjb4WGw49yC7e0esfDLSI&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=mozilla.org&sid=e9527ba77418b05c#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9D%99%82%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%AE
+
+vless://b85cb93e-f1b0-4fa5-8794-ac91ac845bce@CAN1.ZAG-FA.SOLVETA.IR:16064?security=reality&encryption=none&pbk=i-1Q4pe5I_Gfo6dJ4YgvDNgjb4WGw49yC7e0esfDLSI&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.dell.com&sid=e9527ba77418b05c#%F0%9F%87%A8%F0%9F%87%A6%20%F0%9D%98%BE%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%96%F0%9D%99%99%F0%9D%99%96
+
+vless://b85cb93e-f1b0-4fa5-8794-ac91ac845bce@NL1.ZAG-FA.SOLVETA.IR:9983?security=reality&encryption=none&pbk=mPYP_E1bJqvNXD-uKRU4QFyXk6B9lweXX5cqgbq3l3M&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.dell.com&sid=16b3713dce93ee0c#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9D%99%89%F0%9D%99%9A%F0%9D%99%A9%F0%9D%99%9D%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%99%F0%9D%99%A8
+
+vless://b85cb93e-f1b0-4fa5-8794-ac91ac845bce@SG1.ZAG-FA.SOLVETA.IR:9984?security=reality&encryption=none&pbk=mPYP_E1bJqvNXD-uKRU4QFyXk6B9lweXX5cqgbq3l3M&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=evernote.com&sid=16b3713dce93ee0c#%F0%9F%87%B8%F0%9F%87%AC%20%F0%9D%99%8E%F0%9D%99%9E%F0%9D%99%A3%F0%9D%99%9C%F0%9D%99%96%F0%9D%99%A5%F0%9D%99%A4%F0%9D%99%A7%F0%9D%99%9A
+
+vless://b85cb93e-f1b0-4fa5-8794-ac91ac845bce@104.18.26.90:443?path=%2Froute&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=trace10.solvexa.ir&fp=ios&type=ws&allowInsecure=0&sni=trace10.solvexa.ir#%F0%9F%87%B9%F0%9F%87%B7%20%F0%9D%99%8F%F0%9D%99%AA%F0%9D%99%A7%F0%9D%99%A0%F0%9D%99%9A%F0%9D%99%AE
+
+vless://b85cb93e-f1b0-4fa5-8794-ac91ac845bce@rahbarshahid.doa-ahd.com:2083?mode=packet-up&path=%2Frelay&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=temp11.solvexa.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=temp11.solvexa.ir#%F0%9F%87%A6%F0%9F%87%AA%20%F0%9D%99%90%F0%9D%98%BC%F0%9D%99%80
+
+vless://b85cb93e-f1b0-4fa5-8794-ac91ac845bce@YT.ZAG-FA.SOLVETA.IR:7577?security=reality&encryption=none&pbk=BWDVYP9V7_Zpr4Hg6OTs_3PrfnsJNhN_bY8TLw-hnxs&host=www.icloud.com&headerType=http&fp=edge&spx=%2F&type=tcp&sni=www.icloud.com&sid=8c0240610023b276#%F0%9F%87%A6%F0%9F%87%B1%20%F0%9D%99%94%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%8F%F0%9D%99%AA%F0%9D%99%97%F0%9D%99%9A
+
+vless://b85cb93e-f1b0-4fa5-8794-ac91ac845bce@NGA1.ZAG-FA.SOLVETA.IR:4464?security=reality&encryption=none&pbk=eGW_HeBb5NKh7pROvEBTi1JSIPcBrBdB8FKndMe2gQE&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=4f0e5c287c2206b1#%F0%9F%87%B3%F0%9F%87%AC%20%F0%9D%99%8E%F0%9D%99%A5%F0%9D%99%A4%F0%9D%99%A9%F0%9D%99%9E%F0%9D%99%9B%F0%9D%99%AE
+
 ss://YWVzLTEyOC1nY206SlFsWFpUV0NzVmV1UHdMYmoyVWF0QQ==@dxuew.restaurantbomb.com:8389#%F0%9F%9A%80%20%F0%9F%87%A9%F0%9F%87%AA%20Shadow
 ss://YWVzLTEyOC1nY206SlFsWFpUV0NzVmV1UHdMYmoyVWF0QQ==@woeks.restaurantbomb.com:8389#%F0%9F%9A%80%20%F0%9F%87%A6%F0%9F%87%B1%20Shadow
 ss://YWVzLTEyOC1nY206SlFsWFpUV0NzVmV1UHdMYmoyVWF0QQ==@milsjd.restaurantbomb.com:8389#%F0%9F%9A%80%20%F0%9F%87%AE%F0%9F%87%B9%20Shadow
