@@ -25,32 +25,46 @@ vless://49c52032-c2bf-4f98-92f6-9813bc3068bb@us4.tu.yo-servers.com:443?encryptio
 vless://49c52032-c2bf-4f98-92f6-9813bc3068bb@fi2.tu.yo-servers.com:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fdownload&host=fi2.tu.yo-servers.com&sni=fi2.tu.yo-servers.com&fp=chrome&alpn=h2#%F0%9F%87%AB%F0%9F%87%AE%20FI-02%201600%20%5BT%5D%20-%20%40Raydikalx
 
 
-vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amld.banfuna.ir:33963?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Tunnel%200
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@avcd.banfuna.ir:33963?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%A9%F0%9F%87%AA%20Tunnel%200
 
-vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amld.banfuna.ir:44887?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20Tunnel%201
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amld.banfuna.ir:44887?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%BA%F0%9F%87%B8%20Tunnel%201
 
-vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amnd.banfuna.ir:54018?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%A6%F0%9F%87%B1%20%7C%20Tunnel%202%20-%20Youtube
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amnd.banfuna.ir:54018?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%A6%F0%9F%87%B1%20Tunnel%202%20-%20YouTube
 
-vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amnd.banfuna.ir:41389?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Tunnel%203
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amnd.banfuna.ir:41389?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%A9%F0%9F%87%AA%20Tunnel%203
 
-vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@avcd.banfuna.ir:17987?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%B9%F0%9F%87%B7%20%7C%20Tunnel%204
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@avcd.banfuna.ir:17987?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%B9%F0%9F%87%B7%20Tunnel%204
 
-vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amld.banfuna.ir:29446?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%BA%F0%9F%87%A6%20%7C%20Tunnel%205
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amld.banfuna.ir:29446?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%BA%F0%9F%87%A6%20Tunnel%205
 
-vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@avcd.banfuna.ir:29447?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%AC%F0%9F%87%A7%20%7C%20Tunnel%206
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@avcd.banfuna.ir:29447?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%AC%F0%9F%87%A7%20Tunnel%206
 
-vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@avcd.banfuna.ir:29448?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20Tunnel%207
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@avcd.banfuna.ir:29448?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%B3%F0%9F%87%B1%20Tunnel%207
 
-vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amld.banfuna.ir:29449?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%AB%F0%9F%87%AE%20%7C%20Tunnel%208
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amld.banfuna.ir:29449?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%AB%F0%9F%87%AE%20Tunnel%208
 
-vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amnd.banfuna.ir:36650?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20Tunnel%209
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amnd.banfuna.ir:36650?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%BA%F0%9F%87%B8%20Tunnel%209
 
-vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amnd.banfuna.ir:30349?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Tunnel%2010
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amnd.banfuna.ir:30349?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%A9%F0%9F%87%AA%20Tunnel%2010
 
-vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amld.banfuna.ir:28383?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%B9%F0%9F%87%B7%20%7C%20Tunnel%2011
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amld.banfuna.ir:28383?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%B9%F0%9F%87%B7%20Tunnel%2011
 
-vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@avcd.banfuna.ir:47575?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20Tunnel%2012
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@avcd.banfuna.ir:47575?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%AB%F0%9F%87%B7%20Tunnel%2012
 
-vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@avcd.banfuna.ir:26691?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%AE%F0%9F%87%B1%20%7C%20Tunnel%2013
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@avcd.banfuna.ir:26691?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%AE%F0%9F%87%B1%20Tunnel%2013
 
-vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amnd.banfuna.ir:30923?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%A8%F0%9F%87%A6%20%7C%20Tunnel%2014
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amnd.banfuna.ir:30923?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%A8%F0%9F%87%A6%20Tunnel%2014
+
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@avcd.banfuna.ir:39356?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%B9%F0%9F%87%B7%20Tunnel%2015
+
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amld.banfuna.ir:64474?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%B8%F0%9F%87%AC%20Tunnel%2016
+
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amnd.banfuna.ir:44595?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%AE%F0%9F%87%B3%20Tunnel%2017
+
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amld.banfuna.ir:60603?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%B3%F0%9F%87%AC%20Tunnel%2018
+
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amnd.banfuna.ir:46459?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%AE%F0%9F%87%B1%20Tunnel%2019
+
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amld.banfuna.ir:53168?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%B7%F0%9F%87%BA%20Tunnel%2020%20-%20YouTube
+
+vless://97f90034-e0de-4ac8-8bc0-6facbc40c930@amnd.banfuna.ir:54442?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&fp=chrome&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#%F0%9F%87%AA%F0%9F%87%AA%20Tunnel%2021
