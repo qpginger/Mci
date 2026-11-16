@@ -13,10 +13,13 @@ jobs:
       - name: Build
         env:
           PAID_SUB: ${{ secrets.PAID_SUB }}
+          PAID_SUB2: ${{ secrets.PAID_SUB2 }}
         run: |
-          curl -fsSL "$PAID_SUB" -o paid.txt
-          (base64 -d paid.txt 2>/dev/null || cat paid.txt) > paid_dec.txt
-          cat own.txt paid_dec.txt | grep -v '^$' | base64 -w0 > mci
+          curl -fsSL "$PAID_SUB" -o p1.txt
+          (base64 -d p1.txt 2>/dev/null || cat p1.txt) > p1d.txt
+          curl -fsSL "$PAID_SUB2" -o p2.txt
+          (base64 -d p2.txt 2>/dev/null || cat p2.txt) > p2d.txt
+          cat own.txt p1d.txt p2d.txt | grep -v '^$' | base64 -w0 > mci
       - name: Commit
         run: |
           git config user.name bot
